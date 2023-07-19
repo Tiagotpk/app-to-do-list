@@ -22,6 +22,31 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  <img alt="to-do-list" src=".github/ToDoList.jpg">
  </p>
 
+ ##Sobre o App
+ <p align="left">
+ ⚡ - Neste app o usuário poderá adicionar tarefas diárias, podendo marcar quais foram completadas ou até mesmo deletar as tarefas inseridas, sendo de forma única (uma por vez) ou todas de uma só vez.
+ </p>
+ <p align="left">
+ ⚡ - No campo adicionar tarefas, ele terá que digitar um valor específico que será adicionado a lista de tarefas.
+ </p>
+ <p align="left">
+ ⚡ - Assim que a tarefa for adicionada, esta será enviada para uma lista onde o usuário poderá fazer algumas ações, como:
+ <br>
+      - ✔ <b>Checked</b>: Assim que o usuário clicar no "input" checked sua tarefa estará pronta e deverá ir pro final da lista.
+      <br>
+      - 🚫 <b>Delete</b>: Assim que o usuário clicar no ícone da lixeira sua tarefa deverá ser deletada.  
+ </p>
+ <p align="left">
+ ⚡ Botão para deletar todas as atividades.
+ <br>
+      - 💥 Assim que clicar no botão para deletar todas as tarefas inseridas deverá aparecer um pop-up de confirmação se você realmente quer apagar tudo.
+ </p>
+ <p align="center">
+ ⚡ Obervação
+ </p>
+ <p>Sem que for inserido uma atividade e esta por algum motivo ficar vazia, aparecerá um pop-up confirmando se você quer removê-la.</>
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
