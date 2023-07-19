@@ -37,7 +37,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
       - 🚫 <b>Delete</b>: Assim que o usuário clicar no ícone da lixeira sua tarefa deverá ser deletada.  
  </p>
  <p align="left">
- ⚡ Botão para deletar todas as atividades.
+ ⚡ - Botão para deletar todas as atividades.
  <br>
       - 💥 Assim que clicar no botão para deletar todas as tarefas inseridas deverá aparecer um pop-up de confirmação se você realmente quer apagar tudo.
  </p>
