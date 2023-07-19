@@ -22,7 +22,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  <img alt="to-do-list" src=".github/ToDoList.jpg">
  </p>
 
- ##Sobre o App
+ #Sobre o App
  <p align="left">
  ⚡ - Neste app o usuário poderá adicionar tarefas diárias, podendo marcar quais foram completadas ou até mesmo deletar as tarefas inseridas, sendo de forma única (uma por vez) ou todas de uma só vez.
  </p>
