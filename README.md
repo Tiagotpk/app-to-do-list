@@ -30,9 +30,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  <p align="left">
  ⚡ - Assim que a tarefa for adicionada, esta será enviada para uma lista onde o usuário poderá fazer algumas ações, como:
  <br>
-      <p align="center">✔ <b>Checked</b>: Assim que o usuário clicar no "input" checked sua tarefa estará pronta e deverá ir pro final da lista.</p> 
+      <p align="left">✔ <b>Checked</b>: Assim que o usuário clicar no "input" checked sua tarefa estará pronta e deverá ir pro final da lista.</p> 
       <br>
-       <p align="center">🚫 <b>Delete</b>: Assim que o usuário clicar no ícone da lixeira sua tarefa deverá ser deletada. </p> 
+       <p align="left">🚫 <b>Delete</b>: Assim que o usuário clicar no ícone da lixeira sua tarefa deverá ser deletada. </p> 
  </p>
  <p align="left">
  ⚡ - Botão para deletar todas as atividades.
