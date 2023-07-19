@@ -14,15 +14,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  
- </p>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
  <p align="center">
  <img alt="to-do-list" src=".github/ToDoList.jpg">
  </p>
 
- #Sobre o App
+ <h1>Sobre o App</h1>
  <p align="left">
  ⚡ - Neste app o usuário poderá adicionar tarefas diárias, podendo marcar quais foram completadas ou até mesmo deletar as tarefas inseridas, sendo de forma única (uma por vez) ou todas de uma só vez.
  </p>
@@ -32,9 +30,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  <p align="left">
  ⚡ - Assim que a tarefa for adicionada, esta será enviada para uma lista onde o usuário poderá fazer algumas ações, como:
  <br>
-      - ✔ <b>Checked</b>: Assim que o usuário clicar no "input" checked sua tarefa estará pronta e deverá ir pro final da lista.
+      <p align="center">✔ <b>Checked</b>: Assim que o usuário clicar no "input" checked sua tarefa estará pronta e deverá ir pro final da lista.</p> 
       <br>
-      - 🚫 <b>Delete</b>: Assim que o usuário clicar no ícone da lixeira sua tarefa deverá ser deletada.  
+       <p align="center">🚫 <b>Delete</b>: Assim que o usuário clicar no ícone da lixeira sua tarefa deverá ser deletada. </p> 
  </p>
  <p align="left">
  ⚡ - Botão para deletar todas as atividades.
