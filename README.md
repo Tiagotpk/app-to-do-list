@@ -44,7 +44,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  <p>Sem que for inserido uma atividade e esta por algum motivo ficar vazia, aparecerá um pop-up confirmando se você quer removê-la.</>
  <hr>
  <h2>Vercel</h2>
- <a href="">[App To-Do List](https://app-to-do-list-delta.vercel.app/)</a>
+ <a href="https://app-to-do-list-delta.vercel.app/">App To-Do List</a>
 
 
 ## Development server
