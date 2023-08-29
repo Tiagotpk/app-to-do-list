@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 <p align="center">App para organizar suas tarefas, onde você pode adicioná-las, modificá-las e removê-las quando quiser.</p>
 
-## Tenologias Utilizadas
+## Tecnologias Utilizadas
  <p align="left"> 
  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
